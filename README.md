@@ -4,4 +4,4 @@
 
 <img src="./.github/Cover.jpg"/>
 
-- [Visite o projeto online](oliveroliveiraa.github.io/NLWSetup2023/)
+- [Visite o projeto online](https://oliveroliveiraa.github.io/NLWSetup2023/)
